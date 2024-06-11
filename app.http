@@ -1,0 +1,16 @@
+GET http://localhost:3000/transactions/01
+
+###
+GET http://localhost:3000/noOfSoldItems/01
+
+###
+GET http://localhost:3000/noOfUnsoldItems/01
+
+### 
+GET http://localhost:3000/pieChartData/01
+
+###
+GET http://localhost:3000/totalSales/09
+
+### 
+GET http://localhost:3000/
